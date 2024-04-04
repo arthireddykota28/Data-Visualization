@@ -1,7 +1,7 @@
-Animal,Body Length,Body Width,Leg Length,Leg Width,Species
+Animal,Body_Length,Body_Width,Leg_Length,Leg_Width,Species
 Lion,1.5,0.8,0.6,0.2,Mammals
 Tiger,1.4,0.9,0.5,0.3,Mammals
-Elephant,1.8,1.0,0.7,0.4,Mammals
+Elephant,1.8,1,0.7,0.4,Mammals
 Giraffe,1.7,0.8,0.6,0.3,Mammals
 Cheetah,1.6,0.7,0.5,0.2,Mammals
 Gorilla,1.4,0.7,0.6,0.3,Mammals
