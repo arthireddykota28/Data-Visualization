@@ -1,31 +1,51 @@
-Animal,weight,height,age,species
-Elephant,4000,300,10,mammal
-Lion,200,120,5,mammal
-Giraffe,800,500,7,mammal
-Hippopotamus,2500,200,12,mammal
-Tiger,300,150,6,mammal
-Zebra,500,250,8,mammal
-Gorilla,600,180,9,mammal
-Bear,700,190,8,mammal
-Kangaroo,400,150,5,mammal
-Rabbit,2,20,1,mammal
-Penguin,5,40,2,bird
-Eagle,3,50,3,bird
-Ostrich,50,80,6,bird
-Hummingbird,0.05,10,0.5,bird
-Pigeon,1,30,2,bird
-Dolphin,300,180,15,marine mammal
-Whale,15000,1500,50,marine mammal
-Seal,100,60,4,marine mammal
-Polar Bear,800,250,12,mammal
-Shark,200,300,20,fish
-Tuna,80,200,10,fish
-Salmon,10,100,5,fish
-Trout,5,60,2,fish
-Octopus,15,80,3,invertebrate
-Jellyfish,1,30,1,invertebrate
-Squid,5,50,2,invertebrate
-Crab,2,20,1,invertebrate
-Snail,0.1,5,0.5,invertebrate
-Starfish,0.5,10,1,invertebrate
-Coral,0.2,15,0.8,invertebrate
+Animal,Body Length,Body Width,Leg Length,Leg Width,Species
+Lion,1.5,0.8,0.6,0.2,Mammals
+Tiger,1.4,0.9,0.5,0.3,Mammals
+Elephant,1.8,1.0,0.7,0.4,Mammals
+Giraffe,1.7,0.8,0.6,0.3,Mammals
+Cheetah,1.6,0.7,0.5,0.2,Mammals
+Gorilla,1.4,0.7,0.6,0.3,Mammals
+Dolphin,1.2,0.5,0.3,0.2,Mammals
+Panda,1.3,0.6,0.4,0.2,Mammals
+Kangaroo,1.2,0.6,0.4,0.2,Mammals
+Zebra,1.5,0.7,0.5,0.2,Mammals
+Eagle,0.6,0.2,0.3,0.1,Birds
+Owl,0.5,0.3,0.4,0.2,Birds
+Penguin,0.4,0.2,0.2,0.1,Birds
+Hawk,0.7,0.4,0.5,0.3,Birds
+Falcon,0.8,0.3,0.4,0.2,Birds
+Parrot,0.6,0.3,0.3,0.2,Birds
+Albatross,0.9,0.5,0.4,0.3,Birds
+Hummingbird,0.3,0.1,0.1,0.05,Birds
+Salmon,0.3,0.1,0.2,0.1,Fish
+Trout,0.4,0.2,0.3,0.1,Fish
+Tuna,0.5,0.3,0.4,0.2,Fish
+Shark,0.6,0.4,0.5,0.3,Fish
+Octopus,0.4,0.3,0.2,0.2,Fish
+Seahorse,0.2,0.1,0.1,0.05,Fish
+Jellyfish,0.3,0.2,0.1,0.1,Fish
+Clownfish,0.15,0.1,0.05,0.05,Fish
+Starfish,0.25,0.2,0.05,0.05,Fish
+Ant,0.1,0.05,0.1,0.05,Invertebrates
+Bee,0.2,0.1,0.1,0.05,Invertebrates
+Butterfly,0.3,0.2,0.2,0.1,Invertebrates
+Spider,0.2,0.1,0.1,0.05,Invertebrates
+Centipede,0.15,0.05,0.05,0.05,Invertebrates
+Snail,0.25,0.1,0.1,0.05,Invertebrates
+Scorpion,0.3,0.15,0.1,0.1,Invertebrates
+Caterpillar,0.1,0.05,0.05,0.05,Invertebrates
+Beetle,0.2,0.1,0.05,0.05,Invertebrates
+Butterflyfish,0.15,0.1,0.05,0.05,Fish
+Dolphinfish,0.35,0.25,0.1,0.05,Fish
+Angelfish,0.2,0.15,0.05,0.05,Fish
+Whale,1.9,1.1,0.8,0.5,Mammals
+Seal,1.1,0.6,0.4,0.2,Mammals
+Walrus,1.4,0.9,0.5,0.3,Mammals
+Platypus,0.6,0.3,0.2,0.1,Mammals
+Polar Bear,1.5,0.9,0.6,0.3,Mammals
+Sloth,0.5,0.3,0.2,0.1,Mammals
+Koala,0.7,0.4,0.3,0.2,Mammals
+Duck,0.5,0.3,0.2,0.1,Birds
+Goose,0.6,0.4,0.3,0.2,Birds
+Eagle Ray,0.9,0.5,0.4,0.2,Fish
+Stingray,0.8,0.4,0.3,0.2,Fish
