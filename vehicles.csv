@@ -1,0 +1,31 @@
+ID,Make,Model,Year,Color,Price($),Mileage(mi),Fuel_Type
+1,Ford,F-150,2022,Black,45000,15000,Petrol
+2,Chevrolet,Camaro,2021,Red,35000,12000,Petrol
+3,Toyota,Corolla,2023,White,25000,10000,Hybrid
+4,Honda,Civic,2020,Blue,20000,8000,Hybrid
+5,Jeep,Wrangler,2022,Gray,55000,20000,Diesel
+6,BMW,3 Series,2021,Silver,40000,15000,Petrol
+7,Audi,A4,2023,Black,48000,18000,Diesel
+8,Mercedes-Benz,C-Class,2020,Blue,45000,16000,Diesel
+9,Subaru,Outback,2022,Green,32000,13000,Hybrid
+10,Volkswagen,Jetta,2023,White,28000,11000,Electric
+11,Tesla,Model S,2021,Red,75000,30000,Electric
+12,Ford,Explorer,2020,Silver,42000,17000,Petrol
+13,Toyota,RAV4,2022,Gray,30000,14000,Hybrid
+14,Honda,Accord,2021,Black,35000,15000,Petrol
+15,Jeep,Cherokee,2023,Green,48000,19000,Diesel
+16,BMW,5 Series,2020,Blue,55000,22000,Diesel
+17,Audi,Q5,2022,White,50000,20000,Diesel
+18,Mercedes-Benz,E-Class,2021,Silver,55000,23000,Petrol
+19,Subaru,Forester,2020,Gray,35000,16000,Hybrid
+20,Volkswagen,Tiguan,2023,Black,33000,12000,Electric
+21,Tesla,Model 3,2021,Red,60000,25000,Electric
+22,Ford,Ranger,2020,White,40000,17000,Diesel
+23,Toyota,Highlander,2022,Gray,42000,18000,Hybrid
+24,Honda,Pilot,2021,Blue,45000,19000,Petrol
+25,Jeep,Grand Cherokee,2023,Black,55000,22000,Diesel
+26,BMW,7 Series,2020,Silver,70000,30000,Petrol
+27,Audi,A6,2022,White,65000,25000,Diesel
+28,Mercedes-Benz,S-Class,2021,Black,85000,40000,Diesel
+29,Subaru,Crosstrek,2020,Orange,32000,13000,Hybrid
+30,Volkswagen,Atlas,2023,White,40000,17000,Electric
